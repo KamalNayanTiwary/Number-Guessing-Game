@@ -25,3 +25,11 @@ number-guessing-game/
 ├── app.py # Streamlit app logic
 ├── number_guessing_game.py # Game logic
 ├── README.md
+
+---
+
+## 🛠️ Installation
+```bash
+git clone https://github.com/KamalNayanTiwary/Number-Guessing-Game.git
+cd Number-Guessing-Game
+pip install streamlit
