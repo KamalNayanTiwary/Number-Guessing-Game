@@ -33,3 +33,11 @@ number-guessing-game/
 git clone https://github.com/KamalNayanTiwary/Number-Guessing-Game.git
 cd Number-Guessing-Game
 pip install streamlit
+
+---
+
+▶️ Run the App
+bash
+Copy
+Edit
+streamlit run app.py
