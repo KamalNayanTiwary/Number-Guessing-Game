@@ -21,3 +21,7 @@ The app randomly picks a number between 1 and 100 — your goal is to guess it!
 ---
 
 ## 📁 File Structure
+number-guessing-game/
+├── app.py # Streamlit app logic
+├── number_guessing_game.py # Game logic
+├── README.md
